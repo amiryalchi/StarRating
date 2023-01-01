@@ -7,7 +7,7 @@ public struct StarRating: View {
     @Binding var rating: Int
     let maxRating: Int
     let onImage: Image
-    let offIm   age: Image
+    let offImage: Image
     let size: CGSize
     let spacing: CGFloat
 
